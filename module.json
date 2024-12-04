@@ -1,0 +1,32 @@
+{
+    "name": "potion-crafting-system",
+    "title": "Potion Crafting System",
+    "description": "A module that allows players to craft potions using ingredients from their inventory.",
+    "version": "1.0.0",
+    "author": "YourName",
+    "minimumCoreVersion": "10.0",
+    "compatibleCoreVersion": "11.0",
+    "scripts": [
+      "main.js"
+    ],
+    "styles": [
+      "styles/crafting-system.css"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "languages/en.json"
+      }
+    ],
+    "packs": [],
+    "dependencies": [],
+    "esmodules": [],
+    "socket": false,
+    "manifest": "https://your-repository-url.com/module.json",
+    "download": "https://your-repository-url.com/potion-crafting-system.zip",
+    "license": "MIT",
+    "readme": "https://your-repository-url.com/README.md",
+    "bugs": "https://your-repository-url.com/issues"
+  }
+  
